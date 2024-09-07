@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dylanface
-- 👀 I’m interested in chasing the dopamine via learning random languages.
-- 🌱 I’m currently learning Physics 😬
+- Hi, I’m @dylanface
 
 <!---
 dylanface/dylanface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
